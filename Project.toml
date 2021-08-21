@@ -1,0 +1,12 @@
+name = "ChaosThroughBilliards"
+
+[deps]
+DataStructures = "864edb3b-99cc-5e75-8d2d-829cb0a9cfe8"
+DrWatson = "634d3b9d-ee7a-5ddf-bec9-22491ea816e1"
+DynamicalBilliards = "4986ee89-4ee5-5cef-b6b8-e49ba721d7a5"
+DynamicalSystems = "61744808-ddfa-5f27-97ff-6e42cc95d634"
+GLMakie = "e9467ef8-e4e7-5192-8a1a-b1aee30e663a"
+InteractiveDynamics = "ec714cd0-5f51-11eb-0b6e-452e7367ff84"
+
+[compat]
+julia = "1.5.1"
