@@ -5,8 +5,7 @@ It provides the scripts that produce the animations in the YouTube video "Chaos 
 
  To (locally) reproduce this project, do the following:
 
-1. Download this code base. Notice that raw data are typically not included in the
-   git-history and may need to be downloaded independently.
+1. Download this code base.
 2. Open a Julia console and do:
    ```
    julia> using Pkg
